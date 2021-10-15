@@ -1,0 +1,5 @@
+django==2.2
+psycopg2-binary==2.8.6
+django-background-tasks
+django-extensions
+openpyxl
